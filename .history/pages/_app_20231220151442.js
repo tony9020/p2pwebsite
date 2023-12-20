@@ -1,4 +1,3 @@
-
 /* eslint-disable quotes */
 import Head from "next/head";
 
