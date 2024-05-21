@@ -56,10 +56,10 @@ const Navbar = () => {
             <div className="cursor-pointer">
               <a
                 className="flex justify-start items-center space-x-4 "
-                href="https://ecell .co/carpediem"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer">
-                <BsFillCalendarEventFill /> <h2>Carpediem</h2>
+                <BsFillCalendarEventFill /> <h2>Join us</h2>
               </a>
             </div>
           </div>

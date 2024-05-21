@@ -45,7 +45,7 @@ const Contect = () => {
                     <path d="M15 3a6 6 0 0 1 6 6" />
                   </svg>
                 </div>
-                <p className="pl-4 text-white text-base">+91 9366093376</p>
+                <p className="pl-4 text-white text-base">+91 9020555800</p>
               </div>
               <div className="flex items-center">
                 <div>
@@ -65,11 +65,11 @@ const Contect = () => {
                     <polyline points="3 7 12 13 21 7" />
                   </svg>
                 </div>
-                <p className="pl-4 text-white text-base">ecell@ .com</p>
+                <p className="pl-4 text-white text-base">contact@p2puae.com</p>
               </div>
               <p className="text-lg text-white pt-10 tracking-wide">
-                Electrical Building, UAE   <br />
-                4th Floor, Room-503
+                 UAE   <br />
+                .
               </p>
             </div>
           </div>
