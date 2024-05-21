@@ -11,7 +11,7 @@ export const exploreWorlds = [{
     {
         id: "world-2",
         imgUrl: "https://images.pexels.com/photos/7788611/pexels-photo-7788611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        title: "Rent a pet",
+        title: "Borrow a pet",
         link: "https://www.instagram.com/p/CicqtmhPpuU/",
     },
     {
@@ -23,7 +23,7 @@ export const exploreWorlds = [{
     {
         id: "world-4",
         imgUrl: "https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        title: "Tele Vet",
+        title: "Training and Care",
         link: "https://www.instagram.com/p/CRCVA7HMNB-/",
     },
     {
@@ -32,6 +32,13 @@ export const exploreWorlds = [{
         title: "Lost and Found",
         link: "https://www.instagram.com/p/CcyH8zvvsIk/",
     },
+
+    {
+        id: "world-5",
+        imgUrl: "https://images.pexels.com/photos/7561173/pexels-photo-7561173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        title: "Shop with us",
+        link: "https://www.instagram.com/p/CcyH8zvvsIk/",
+    }
 ];
 
 export const startingFeatures = [
@@ -42,18 +49,18 @@ export const startingFeatures = [
 
 export const newFeatures = [{
         imgUrl: "/headset.svg",
-        title: "Pioneering Innovation",
+        title: "Pioneering Innovation in Pet Care",
         subtitle: " We aspire to be at the forefront of innovation in the pet care industry.",
     },
     {
         imgUrl: "/vrpano.svg",
-        title: "Building Global",
+        title: "Building a Global Pet-Centric Community",
         subtitle: " Our vision extends beyond borders, aiming to build a global community of pet lovers, enthusiasts, and responsible owners.",
     },
 
     {
         imgUrl: "/search.svg",
-        title: "Promoting Responsible and Informed ",
+        title: "Promoting Responsible and Informed Pet Ownership",
         subtitle: " We are committed to promoting responsible pet ownership by providing valuable insights, educational resources, and expert guidance.",
     },
 ];
@@ -94,107 +101,9 @@ export const socials = [{
 
 export const teamMambers = [{
         id: "1",
-        imgUrl: "/aksh.jpg",
-        title: "Akshat Srivastava",
-        subtitle: "President",
-        link: "https://www.linkedin.com/in/akshatsrivastava01/",
-    },
-    {
-        id: "2",
-        imgUrl: "/krish.jpg",
-        title: "Krishna Chandak",
-        subtitle: "General Secretary",
-        link: "https://www.linkedin.com/in/krishna-chandak-abc/",
-    },
-    {
-        id: "3",
-        imgUrl: "/hemant.jpg",
-        title: "Hemant Shankar",
-        subtitle: "Head Of Operation",
-        link: "https://www.linkedin.com/in/hemant-shankar/",
-    },
-    {
-        id: "4",
-        imgUrl: "/naba.jpg",
-        title: "Nababrata Deb",
-        subtitle: "Head Of Technical",
-        link: "https://www.linkedin.com/in/nababratadeb/",
-    },
-    {
-        id: "5",
-        imgUrl: "pranjal.jpg",
-        title: "Pranjal Tank",
-        subtitle: "Head of Finance",
-        link: "https://www.instagram.com/p/CHDBQizllK6/",
-    },
-    {
-        id: "6",
-        imgUrl: "/deep.jpg",
-        title: "Pratnadeep Banik",
-        subtitle: "General Secretary",
-        link: "https://www.linkedin.com/in/pratnadeepbanik/",
-    },
-    {
-        id: "7",
-        imgUrl: "/mukul.jpg",
-        title: "Mukul Kumar",
-        subtitle: "Head Of Internal Affairs",
-        link: "https://www.linkedin.com/in/mukul-kr/",
-    },
-    {
-        id: "8",
-        imgUrl: "/tri.jpg",
-        title: "Triasha Roy",
-        subtitle: "Head of Content & Media Team",
-        link: "https://www.linkedin.com/in/triasharoy/",
-    },
-    {
-        id: "9",
-        imgUrl: "/madhu.jpg",
-        title: "Madhumita Moi",
-        subtitle: "Head Of Alumni Affairs",
-        link: "https://www.linkedin.com/in/madhumita-moi/",
-    },
-    {
-        id: "10",
-        imgUrl: "/dha.jpg",
-        title: "Dharun Shankar",
-        subtitle: "Head of Startup Development",
-        link: "https://www.linkedin.com/in/dharun-shankar/",
-    },
-    {
-        id: "11",
-        imgUrl: "/sri.jpg",
-        title: "Srija Das",
-        subtitle: "Senior Executive",
-        link: "https://www.linkedin.com/in/srija-das/",
-    },
-    {
-        id: "12",
-        imgUrl: "/ro.jpg",
-        title: "Rohit Nori",
-        subtitle: "Senior Executive",
-        link: "https://www.linkedin.com/in/rohit-nori/",
-    },
-    {
-        id: "13",
-        imgUrl: "/tanmay.jpg",
-        title: "Tanmay Shree",
-        subtitle: "Senior Executive",
-        link: "https://www.linkedin.com/in/tanmayshree/",
-    },
-    {
-        id: "14",
-        imgUrl: "/jimmy.jpg",
-        title: "Janmesh Joshi",
-        subtitle: "Senior Executive",
-        link: "https://www.linkedin.com/in/janmesh-joshi/",
-    },
-    {
-        id: "15",
-        imgUrl: "/deeps.jpg",
-        title: "Deep Shikha ",
-        subtitle: "Head Of Design Team",
-        link: "https://www.linkedin.com/in/deepshikha56/",
-    },
+        imgUrl: "/people-01.png",
+        title: "President",
+        subtitle: "of Pet Happiness",
+        link: "https://www.linkedin.com/in/",
+    }
 ];

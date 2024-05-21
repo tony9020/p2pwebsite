@@ -28,8 +28,8 @@ const TeamMam = () => {
         <TitleText
           title={
             <>
-              Meet The Top 10% Inteligent <br className="md:block hidden" />{" "}
-              People Of NITA
+              Meet The Team <br className="md:block hidden" />{" "}
+              People Behind Pet To Place
             </>
           }
           textStyles="text-center"

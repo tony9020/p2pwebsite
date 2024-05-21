@@ -45,11 +45,11 @@
 }
 
 .glassmorphism {
-  background: rgba(255, 255, 255, 0.25);
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
-  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: rgb(42 45 57);
+    box-shadow: 0 8px 32px 0 rgb(0 0 0 / 23%);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
 }
 
 .gradient-03 {
@@ -190,4 +190,16 @@
   left: 35px;
   opacity: 1;
   transition: all 0.1s;
+}
+
+.topnav{
+  position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    border-bottom: 1px solid #454;
+    background-color: rgba(255, 255, 255, 0.04);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
 }

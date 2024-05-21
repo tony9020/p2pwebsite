@@ -25,10 +25,7 @@ const Footer = () => {
             Contact With Pet 2 Place
           </h4>
           <p className="font-bold md:text-[15px] text-[14px] text-white">
-            Akshat Srivastava [For Pet 2 Place Related Queries]
-          </p>
-          <p className="font-bold md:text-[15px] text-[14px] text-white">
-            Nababrata Deb [For Website Related Issues]
+            Tony Christoper [For Pet 2 Place Related Queries]
           </p>
           <button
             type="button"

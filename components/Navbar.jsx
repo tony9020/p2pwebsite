@@ -17,10 +17,10 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false);
 
   return (
-    <nav className={`${styles.xPaddings} sticky py-8`}>
+    <nav className={`${styles.xPaddings} sticky py-8 z-50`}>
       <div className="absolute w-[50%] inset-0 gradient-01" />
       <div
-        className={`${styles.innerWidth} mx-auto flex items-baseline justify-between  gap-8`}>
+        className={`${styles.innerWidth} topnav mx-auto flex items-baseline justify-between  gap-8`}>
         <div className="flex justify-center space-x-2 items-center">
           <img
             onClick={() => router.push("/")}
@@ -42,7 +42,7 @@ const Navbar = () => {
         )}
 
         {toggle ? (
-          <div className="glassmorphism right-1 mt-12 absolute p-4 text-white rounded-md space-y-5 font-bold ">
+          <div className="glassmorphism z-50 right-1 mt-12 absolute p-4 text-white rounded-md space-y-5 font-bold ">
             <div
               onClick={() => router.push("/team")}
               className="flex justify-start items-center cursor-pointer space-x-4 ">
