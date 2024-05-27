@@ -56,7 +56,7 @@ const Navbar = () => {
             <div className="cursor-pointer">
               <a
                 className="flex justify-start items-center space-x-4 "
-                href=""
+                href="http://www.p2puae.com"
                 target="_blank"
                 rel="noopener noreferrer">
                 <BsFillCalendarEventFill /> <h2>Join us</h2>
