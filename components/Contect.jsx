@@ -67,9 +67,7 @@ const Contect = () => {
                 </div>
                 <p className="pl-4 text-white text-base">contact@p2puae.com</p>
               </div>
-              <p className="text-lg text-white pt-10 tracking-wide">Contact
-              <br/>UAE
-              </p>
+              <p className="text-lg text-white pt-10 tracking-wide">UAE</p>
             </div>
           </div>
           <div className="xl:w-3/5 lg:w-3/5 bg-gray-200 h-full pt-5 pb-5 xl:pr-5 xl:pl-0 rounded-tr rounded-br">
