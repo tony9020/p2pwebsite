@@ -50,7 +50,7 @@ const Footer = () => {
               P2P UAE
             </h4>
             <p className="font-normal text-[14px] text-white opacity-50">
-              ©Developed by Tech Team | Pet 2 Place | UAE  <br /> All
+              © Developed by Tech Team | Pet 2 Place | UAE  <br /> All
               rights reserved.
             </p>
 
