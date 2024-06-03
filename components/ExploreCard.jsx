@@ -34,22 +34,22 @@ const ExploreCard = ({
       </h3>
     ) : (
       <div className="absolute bottom-0 p-8 flex items-center justify-start w-full flex-col bg-[rgba(0,0,0,0.5)] rounded-b-[24px]">
+        <h2 className="mt-[24px]  font-semibold sm:text-[32px] text-[24px] text-white">
+          {title}
+        </h2>
+        <p className="font-normal text-[16px] leading-[20.16px] text-white uppercase">
+          Learn more.
+        </p>
         <a href={link} target="_blank" rel="noopener noreferrer">
           <div
-            className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}>
+            className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mt-[16px]`}>
             <img
-              src="/instagram.svg"
+              src="/arrow.svg"
               alt="headset"
               className="w-1/2 h-1/2 object-contain"
             />
           </div>
         </a>
-        <p className="font-normal text-[16px] leading-[20.16px] text-white uppercase">
-          To Enjoy The Memories Click The Instagram Icon
-        </p>
-        <h2 className="mt-[24px]  font-semibold sm:text-[32px] text-[24px] text-white">
-          {title}
-        </h2>
       </div>
     )}
   </motion.div>

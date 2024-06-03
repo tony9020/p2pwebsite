@@ -25,7 +25,7 @@ const Footer = () => {
             Contact With Pet 2 Place
           </h4>
           <p className="font-bold md:text-[15px] text-[14px] text-white">
-            Tony Christoper [For Pet 2 Place Related Queries]
+            To Ch [For Pet 2 Place Related Queries]
           </p>
           <button
             type="button"
